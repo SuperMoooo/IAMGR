@@ -1,0 +1,9 @@
+name: iamgr
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==2.4.6
+      - pandas==3.0.6
